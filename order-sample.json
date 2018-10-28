@@ -1,0 +1,20 @@
+{
+  "order": [
+    {
+      "order_code": "ORD1",
+      "order_details": {
+        "VS5": 10,
+        "MB11": 14,
+        "CF": 13
+      }
+    },
+    {
+      "order_code": "ORD2",
+      "order_details": {
+        "VS5": 10,
+        "MB11": 12,
+        "CF": 12
+      }
+    }
+  ]
+}
