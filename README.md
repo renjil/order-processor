@@ -15,6 +15,7 @@ The application has been hosted on AWS as a Lambda service.
 ## Usage
 
 The application can be invoked by using the below end point:
+
 https://g6rygdl0qi.execute-api.ap-southeast-2.amazonaws.com/prod
 
 Given below are sample usages:
