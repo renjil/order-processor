@@ -28,8 +28,12 @@ Given below are sample usages:
 
 ```curl -H "Content-Type: application/json" -X POST ${RUBIX_BAKERY_URL}/order -d '{"order": [{"order_code": "ORD1","order_details": {"VS5": 10,"MB11": 14,"CA": 13}}]}'```
 
-Alternatively execute the ```run.sh``` to invoke a sample order
+Alternatively execute the `run.sh` to invoke a sample order
 ## Tests
 
 The application includes unit tests and can be invoked with the below command
-```sh test.sh```
+sh test.sh`
+
+## Dependencies
+
+Execute `pip install -r requirements.txt` to install all required dependencies. 
