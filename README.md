@@ -20,9 +20,11 @@ https://g6rygdl0qi.execute-api.ap-southeast-2.amazonaws.com/prod
 Given below are sample usages:
 
 -- Invoke GET request to view order request format
+
 ```curl -H "Content-Type: application/json" -X GET ${RUBIX_BAKERY_URL}/order```
 
 -- Invoke POST request with json request to process order
+
 ```curl -H "Content-Type: application/json" -X POST ${RUBIX_BAKERY_URL}/order -d '{"order": [{"order_code": "ORD1","order_details": {"VS5": 10,"MB11": 14,"CA": 13}}]}'```
 
 Alternatively execute the ```run.sh``` to invoke a sample order
