@@ -1,6 +1,6 @@
-# RUBIX BAKERY
+# Order Processing API
 
-This application is used to process orders received to the Rubix Bakery.
+This application is used to process orders received to a bakery.
 The application has been hosted on AWS as a Lambda service.
 
 ## Assumptions
