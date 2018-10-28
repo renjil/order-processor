@@ -2,7 +2,7 @@
 Rubix Coding Challenge - Rubix Bakery
 
 This file contains all the functions required
-to process an order from Rubix Bakery
+to process an order from Rubix Bakery.
 
 An order is received in a json format and
 the output is returned in json as well
